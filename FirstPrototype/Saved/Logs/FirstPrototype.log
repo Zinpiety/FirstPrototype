@@ -1061,3 +1061,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.27-15.02.15:113][  0]LogSlate: Took 0.000630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.02.27-15.02.18:800][357]LogViewport: Scene viewport resized to 1279x593, mode Windowed.
 [2023.02.27-15.02.21:562][674]LogViewport: Scene viewport resized to 850x366, mode Windowed.
+[2023.02.27-15.04.04:719][ 85]LogViewport: Scene viewport resized to 1279x593, mode Windowed.
+[2023.02.27-15.04.07:503][394]LogDerivedDataCache: C:/Users/Nirako/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.198 and deleted 0 files with total size 0 MiB. Scanned 2216 files in 2206 folders with total size 61 MiB.
+[2023.02.27-15.04.11:908][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.02.27-15.04.12:602][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
